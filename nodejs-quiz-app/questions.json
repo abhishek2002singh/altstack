@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "What is the event-driven, non-blocking I/O model used in Node.js called?",
+        "options": ["Synchronous I/O", "Asynchronous I/O", "Blocking I/O", "Parallel I/O"],
+        "answer": "Asynchronous I/O"
+      },
+      {
+        "question": "Which core module of Node.js is used to create a web server?",
+        "options": ["http", "fs", "url", "querystring"],
+        "answer": "http"
+      },
+      {
+        "question": "What is the purpose of the `require()` function in Node.js?",
+        "options": ["To include external JavaScript files", "To import built-in Node.js modules", "To install npm packages", "To define a new function"],
+        "answer": "To import built-in Node.js modules"
+      },
+      {
+        "question": "Which Node.js module is used for reading and writing files?",
+        "options": ["fs", "http", "path", "url"],
+        "answer": "fs"
+      },
+      {
+        "question": "What does the term 'npm' stand for in Node.js?",
+        "options": ["Node Project Manager", "New Package Manager", "Node Package Manager", "Network Package Manager"],
+        "answer": "Node Package Manager"
+      },
+      {
+        "question": "What is the role of the event loop in Node.js?",
+        "options": ["It handles network requests asynchronously", "It manages callbacks and asynchronous tasks", "It executes JavaScript code synchronously", "It handles file system operations asynchronously"],
+        "answer": "It manages callbacks and asynchronous tasks"
+      },
+      {
+        "question": "Which method is used to handle asynchronous operations in Node.js?",
+        "options": ["Promise", "Callback", "Async/Await", "Event"],
+        "answer": "Callback"
+      },
+      {
+        "question": "What is the purpose of the `process` global object in Node.js?",
+        "options": ["To manage child processes", "To access environment variables", "To handle command-line arguments", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Which Node.js framework is commonly used for building web applications?",
+        "options": ["Express.js", "React.js", "Angular.js", "Vue.js"],
+        "answer": "Express.js"
+      },
+      {
+        "question": "What is the purpose of the `module.exports` object in Node.js?",
+        "options": ["To define global variables", "To export functions or objects from a module", "To import modules from external files", "To require built-in Node.js modules"],
+        "answer": "To export functions or objects from a module"
+      }
+    ]
+  }
+  
